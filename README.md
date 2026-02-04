@@ -50,4 +50,4 @@ These colors were chosen to closely match the dark theme and accent style of the
 ![screenshot](./public/assets/images/screenshot-of-site.png)
 
 
-[Hosted here: ]()
+[Hosted here: ](https://mohammad-1105.github.io/cursor-landing-page-clone/)
